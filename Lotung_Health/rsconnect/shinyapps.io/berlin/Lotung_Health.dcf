@@ -1,0 +1,11 @@
+name: Lotung_Health
+title: Lotung_Health
+account: berlin
+server: shinyapps.io
+appId: 176381
+bundleId: 846838
+url: https://berlin.shinyapps.io/Lotung_Health/
+when: 1496218214.60467
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: chullMedGroup.R|ClinCDGeo.csv|ClinDGeo.csv|Clinic_Population_Scatter.R|ClinicTable.R|HappyLearnCentFull.csv|HomeCareTeams.R|HomeIntegratedCare.csv|ILanHomeDocGroup.csv|ILanNHIclinic.csv|ILanTotPop.png|LotungVillTable.csv|NHI_clinic.csv|NHI_cliniclist.R|NHI_geocode.csv|opendata10603M030.csv|PopDensity.csv|Population.R|Regressions.R|Sandbox.R|Test.R|backup/EDIT_HX.txt|backup/ILanClinicFull(1).csv|backup/ILanClinicFull(2).csv|backup/ILanClinicFull.csv|backup/ILanClinicFull_HICare.csv|backup/server.R|backup/ui.R|image/icon-clinic.png|image/icon-clinicmap.png|image/icon-stetho.png

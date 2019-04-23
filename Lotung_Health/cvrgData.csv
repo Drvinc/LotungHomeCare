@@ -1,0 +1,13 @@
+"coverag_dist","clinic_type","popu65","ratio"
+"2 km radius","Home Care Team",37511,0.546975021508042
+"2 km radius","Community Group",41475,0.604776972542615
+"2 km radius","General Practitioner",52523,0.765875851208096
+"3 km radius","Home Care Team",51299,0.748027821927995
+"3 km radius","Community Group",50892,0.742093060557897
+"3 km radius","General Practitioner",61096,0.890884964785138
+"5 km radius","Home Care Team",64909,0.946485075606235
+"5 km radius","Community Group",61397,0.895274063488823
+"5 km radius","General Practitioner",66278,0.966447454760204
+"10 km radius","Home Care Team",68027,0.991950888756033
+"10 km radius","Community Group",65813,0.959666953440558
+"10 km radius","General Practitioner",68069,0.992563321133291
